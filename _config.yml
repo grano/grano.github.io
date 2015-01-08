@@ -1,0 +1,22 @@
+# Site settings
+title: Andy Granowitz
+email: andy.granowitz@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal website and blog of Andy Granowitz
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://andygranowitz.com" # the base hostname & protocol for your site
+twitter_username: agrano
+github_username:  grano
+highlighter: pygments
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      comments: true
