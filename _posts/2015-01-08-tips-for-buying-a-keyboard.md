@@ -33,7 +33,7 @@ This will be a function of your ability to carry around a keyboard and how often
 
 ####88 Keys
 
-For me, I had to have 88 keys. Unless you are a very new beginner or severely space or price limited, I would recommend 88 keys.
+I had to have 88 keys. Unless you are a very new beginner or severely space or price limited, I would recommend 88 keys.
 
 ####Realistic Feel
 
