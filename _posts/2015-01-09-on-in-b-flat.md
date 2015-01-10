@@ -13,4 +13,4 @@ Things I like about In B Flat:
 
 And probably most of all, I enjoy the music that it produces. In B Flat is a tribute to [Terry Riley](http://en.wikipedia.org/wiki/Terry_Riley), composer of [In C](http://en.wikipedia.org/wiki/In_C) (see [In B Flat FAQs](http://www.inbflat.net/faq.html)). In C is also a very interesting concept, but the music doesn’t make me feel the connections between the musicians in the same way as In B Flat does. 
 
-In B Flat is inspirational to me, in that I would love to see more opportunities for musicians from around the world come together to collaboratively make music over the internet.
+In B Flat is inspirational to me, in that I would love to see more opportunities for musicians from around the world collaboratively make music over the internet.
