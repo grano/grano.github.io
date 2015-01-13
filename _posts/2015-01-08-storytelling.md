@@ -3,7 +3,7 @@ title:  "Storytelling"
 tags: [storytelling, public speaking, podcasts, spokespeople]
 ---
 
-{% include figure.html src="/assets/images/andy-storytelling.jpg" caption="Me telling a story at a Spokespeople event." alt="Me telling a story at a Spokespeople event." %}
+{% include figure.html src="andy-storytelling.jpg" caption="Me telling a story at a Spokespeople event." alt="Me telling a story at a Spokespeople event." %}
 
 For the past year or so, I've attended a few [Spokespeople](http://spokesppl.org/) events. I've really enjoyed listening to other people's stories, and learning about the art of storytelling. 
 

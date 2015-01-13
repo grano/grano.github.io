@@ -3,7 +3,7 @@ layout: post
 title:  "Four Years Later, a Retrospective Review of GarageBand"
 tags: garageband music apple review piano keyboard midi
 ---
-{% include figure.html src="/assets/images/garageband.png" alt="Screenshot of GarageBand '08" id="garageband" %}
+{% include figure.html src="garageband.png" alt="Screenshot of GarageBand '08" class="noborder" %}
 
 As an amateur musician who loves to play, compose, and record music, I love GarageBand. I bought my Mac in 2007, so I am using GarageBand version 4 (the current version is 6). After a brief hiatus, I have started using GarageBand again, and decided to post what I’d like to see changed. If anyone is using a newer version, definitely let me know if GarageBand has improved in these areas. It’s also possible GarageBand has these features and I just don’t know about them! Again, please let me know.
 

@@ -21,7 +21,7 @@ Things I do spend money on:
 
 And that’s it. The cost of shoes and gloves gets averaged out, meaning I pay about $30 for 5+ hours of quality, wholesome entertainment. Compare that to hour-long activities like going to the movies or bowling, and a round of golf starts to seem like a bargain.
 
-{% include figure.html src="/assets/images/sterling-farms.jpg" caption="Sterling Farms Golf Course (pictured above) costs $28 to play, and is a gorgeous, fun, and challenging golf course that I love playing." alt="Sterling Farms Golf Course" %}
+{% include figure.html src="sterling-farms.jpg" caption="Sterling Farms Golf Course (pictured above) costs $28 to play, and is a gorgeous, fun, and challenging golf course that I love playing." alt="Sterling Farms Golf Course" %}
 
 Granted, golf can be very expensive. Some courses charge $500 per tee time. But there are lots of interesting, picturesque, and fun courses around in the $20-$40 range. I guarantee you can find one in your area.
 

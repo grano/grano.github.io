@@ -1,6 +1,6 @@
 # Site settings
 title: Andy Granowitz
-email: andy.granowitz@gmail.com
+email: '&#097;&#110;&#100;&#121;&#046;&#103;&#114;&#097;&#110;&#111;&#119;&#105;&#116;&#122;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;'
 description: > # this means to ignore newlines until "baseurl:"
   Personal website and blog of Andy Granowitz
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -11,6 +11,9 @@ highlighter: pygments
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
 
 defaults:
   -
