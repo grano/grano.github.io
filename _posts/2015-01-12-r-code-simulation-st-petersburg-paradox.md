@@ -5,7 +5,7 @@ tags: [st petersburg paradox, probability, statistics, rstats, code, math, riddl
 
 A friend recently posed a riddle to me:
 
-**You flip a [fair coin](http://en.wikipedia.org/wiki/Fair_coin). Tails, the game is over. Heads you win $2 and play again. In the next round, tails you take your $2 and the game is over. Heads you win an additional $4 and play again. In the next round, tails you take your $6 and the game is over. Heads you win an additional $8, and play again. The payoffs double in each round. How much would you be willing to pay to play this game?**
+**You flip a [fair coin](http://en.wikipedia.org/wiki/Fair_coin). Tails, the game is over. Heads you win $2 and play again. In the next round, tails you take your $2 and the game is over. Heads you win an additional $4 and play again. In the next round, tails you take your $6 and the game is over. Heads you win an additional $8, and play again. And so on. The payoffs double in each round. How much would you be willing to pay to play this game?**
 
 If you are unfamiliar with this problem, it's worthwhile to take some time to try and solve it. I needed pencil and paper [[1]](#1). When ready, scroll down to read on.
 
