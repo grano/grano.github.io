@@ -3,7 +3,7 @@ title: "Twitter, Pocket, and Books"
 tags: [twitter, pocket, books, reading, technology]
 ---
 
-Twiter is my primary source of news discovery. And [Pocket](http://getpocket.com/) is my primary news consumption app.
+Twitter is my primary source of news discovery. And [Pocket](http://getpocket.com/) is my primary news consumption app.
 
 When I have a few minutes to spare, I peruse Twitter for interesting articles that I want to read [[1]](#1). When I find one, I save it to Pocket. In addition to Twitter, I'll save articles to Pocket that friends or coworkers email to me, that I find when browsing news websites directly, that are linked to from other articles, etc.
 
