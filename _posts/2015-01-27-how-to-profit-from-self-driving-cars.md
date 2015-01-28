@@ -5,11 +5,11 @@ tags: [self driving cars, autonomous cars, robots, artificial intelligence, tech
 ---
 I recently read a blog post I found on Hacker News called [How Uber’s Autonomous Cars Will Destroy 10 Million Jobs and Reshape the Economy by 2025](http://zackkanter.com/2015/01/23/how-ubers-autonomous-cars-will-destroy-10-million-jobs-by-2025/). Despite the clickbaity headline (not unlike the headline of this post), it was an interesting read. Whether or not you agree with the aggressive predictions, it is compelling to think about such a drastically different world. 
 
-After sending to a friend, he asked "how can I profit from this"? Here are my thoughts on his question. 
+After sending to a friend, he asked "how can I profit from this"? Here are my thoughts on his question. (Two dislaimers: (1) I am a Google employee, although I do not work on self-driving cars. (2) I am not qualified in any way to give financial advice, what follows is a light muse on how to profit from self-driving cars.)
 
 First, the lives of most people will become much better without doing anything - you will have access to very inexpensive transportation with little or no traffic [[1]](#1). Lower transportation costs and increased access to high quality transportation means you will have passively profited from this change.
 
-But if you want to be a bit more active about it, you can invest in some of the companies Kanter identifies as potential leaders in this new world, such as Google, Tesla, and Uber (disclaimer: I am a Google employee, although I do not work on Self-Driving Cars), and divest or sell short automakers and others who will be in decline.
+But if you want to be a bit more active about it, you can invest in some of the companies Kanter identifies as potential leaders in this new world, such as Google, Tesla, and Uber, and divest or sell short automakers and others who will be in decline.
 
 Themed investing, championed by [Motif Investing](https://www.motifinvesting.com/), comes to mind, although I don't see any Motifs for self-driving cars. Interestingly, there are Motifs for other technology trends touted by the media, such as "[Robotic Revolution](https://www.motifinvesting.com/motifs/robotic-revolution#/overview)", "[Wearable Tech](https://www.motifinvesting.com/motifs/3d-printing#/overview)", and "[3D Printing](https://www.motifinvesting.com/motifs/3d-printing#/overview)".
 
