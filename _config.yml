@@ -4,7 +4,7 @@ email: '&#097;&#110;&#100;&#121;&#046;&#103;&#114;&#097;&#110;&#111;&#119;&#105;
 description: > # this means to ignore newlines until "baseurl:"
   Personal website and blog of Andy Granowitz
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://andygranowitz.com" # the base hostname & protocol for your site
+url: "http://www.andygranowitz.com" # the base hostname & protocol for your site
 twitter_username: agrano
 github_username:  grano
 highlighter: pygments
