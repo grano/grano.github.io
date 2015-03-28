@@ -11,6 +11,18 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+  <div>
+    {% if page.previous.url %}
+    <div class="post-container">
+    	<a class="post-nav" href="{{page.previous.url}}">&laquo; Previous post: {{page.previous.title}}</a>
+    </div> 
+    {% endif %} 
+    {% if page.next.url %}
+    <div class="post-container">
+    	<a class="post-nav" href="{{page.next.url}}">Next post: {{page.next.title}} &raquo;</a> 
+    </div>
+    {% endif %} 
+  </div>
 
 </div>
 
