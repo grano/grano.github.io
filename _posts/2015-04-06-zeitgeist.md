@@ -16,7 +16,7 @@ Here is a quick roundup of some things I’ve read recently on these topics. Not
 
 >We are, Brynjolfsson and McAfee argue, on the verge of a new industrial revolution, one which will have as much impact on the world as the first one.
 
-To me, this is the key question. Is the computer + internet "revolution" simply economic / technological progress that has very significant individual employment repercussions but ultimately no fundamental changes to our underlying economics. Or is it a fundamental change?
+To me, this is the key question. Is the computer + internet "revolution" simply economic / technological progress that has very significant individual employment repercussions but ultimately no fundamental changes to our underlying economics? Or is it a fundamental change?
 
 If it is a fundamental change on the scale of the industrial revolution, wow. From Wikipedia on the [Industrial Revolution](http://en.wikipedia.org/wiki/Industrial_Revolution): "Economic historians are in agreement that the onset of the Industrial Revolution is the most important event in the history of humanity since the domestication of animals, plants and fire."
 
@@ -32,11 +32,11 @@ Just the most recent in continued discussion over Piketty and issues of inequali
 
 Fareed Zakaria’s column in the Washington Post on [Why America’s obsession with STEM education is dangerous](http://www.washingtonpost.com/opinions/why-stem-wont-make-us-successful/2015/03/26/5f4604f2-d2a5-11e4-ab77-9646eea6a4c7_story.html) - he has a new book called *In Defense of a Liberal Education*.
 
-Leon Wieseltier’s [Among the Disrupted](http://www.nytimes.com/2015/01/18/books/review/among-the-disrupted.html) in the NY Times and much that was written in response (not to mention the whole *New Republic* controversy).
+Leon Wieseltier’s [Among the Disrupted](http://www.nytimes.com/2015/01/18/books/review/among-the-disrupted.html) in the NY Times and much that was written in response. (not to mention the *New Republic* controversy)
 
 ####Artificial Intelligence 
 
-Of course much is written about incredible feats by AI companies and researchers, but perhaps more interesting is the growing number of prominent figures speaking out against the potential dangers of AI. If you haven’t seen such threats, do a search for Bill Gates, Elon Musk, Stephen Hawking, Steve Wozniak, Sam Altman, etc. talking about the risks of artificial intelligence.
+Of course much is written about incredible AI feats by companies and researchers, but perhaps more interesting is the growing number of prominent figures speaking out against its potential dangers. If you haven’t seen such threats, do a search for Bill Gates, Elon Musk, Stephen Hawking, Steve Wozniak, Sam Altman, etc. talking about the risks of artificial intelligence.
 
 ####Consciousness
 
