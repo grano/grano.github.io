@@ -8,7 +8,7 @@ tags: [zeitgeist, technology, artificial intelligence, ai, inequality, thomas pi
 
 I recognize that I may be falling prey to some cognitive biases that are causing me to overstate the "defining spirit" of our particular period in history ([take your pick](http://en.wikipedia.org/wiki/List_of_cognitive_biases)). But it does seem like the impact of technology on society is one of the dominant and recurring narratives among writers and thinkers today. 
 
-Here is a quick roundup of some things I’ve read recently on these topics. Not necessarily endorsements, simply articles that have come my way recently.
+Here is a quick roundup of some things I’ve read recently on these topics. Not necessarily endorsements, simply articles that have come my way.
 
 ####Automation
 
