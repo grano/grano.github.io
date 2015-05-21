@@ -4,9 +4,9 @@ title: "Zeitgeist"
 tags: [zeitgeist, technology, artificial intelligence, ai, inequality, thomas piketty, piketty, leon wieseltier, consciousness, yuval harari, stem, humanities, education, fareed zakaria, economics, robots]
 ---
 
-[Zeitgeist is defined as](https://www.google.com/search?q=define%20zeitgeist) "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time." Right now, there seems to be an abundance of conversation among writers, academics, business people, politicians, etc., centered on the related themes of technology induced job automation and rising inequality. Related topics include STEM vs. the humanities, artificial intelligence, consciousness, and so on. 
+[Zeitgeist is defined as](https://www.google.com/search?q=define%20zeitgeist) "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time." Right now, there is an abundance of conversation among writers, academics, business people, politicians, etc., centered on the related themes of technology induced job automation and rising inequality. Related topics include STEM vs. the humanities, artificial intelligence, consciousness, and so on. 
 
-I recognize that I may be falling prey to some cognitive biases that are causing me to overstate the "defining spirit" of our particular period in history ([take your pick](http://en.wikipedia.org/wiki/List_of_cognitive_biases)). But it does seem like the impact of technology on society is one of the dominant and recurring narratives among writers and thinkers today. 
+I may be falling prey to some cognitive biases that are causing me to overstate the "defining spirit" of our particular period in history ([take your pick](http://en.wikipedia.org/wiki/List_of_cognitive_biases)). But it does seem like the impact of technology on society is one of the dominant and recurring narratives among writers and thinkers today. 
 
 Here is a quick roundup of some things I’ve read recently on these topics. Not necessarily endorsements, simply articles that have come my way.
 
