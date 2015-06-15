@@ -4,7 +4,7 @@ title:  "Wedding Speeches"
 tags: [wedding speech, public speaking]
 ---
 
-I was recently given the great honor of helping playing a large role in the [wedding ceremony](#ceremony-speech) two good friends. I also gave a [toast](#toast) during the rehearsal dinner. I've copied both speeches below, as well as the [best man speech](#best-man-speech) I gave at my brother's wedding one year ago.
+I was recently given the great honor of playing a large role in the [wedding ceremony](#ceremony-speech) of two good friends. I also gave a [toast](#toast) during the rehearsal dinner. I've copied both speeches below, as well as the [best man speech](#best-man-speech) I gave at my brother's wedding one year ago.
 
 ### Ceremony Speech
 
