@@ -30,4 +30,4 @@ In the final chapter of *Think Like a Freak*, the under-recognized merits of qui
 
 <p id="1">[1] Intellectual Ventures was also lauded in <em>SuperFreakonomics</em>.</p>
 <p id="2">[2] See <a href="http://en.wikipedia.org/wiki/Intellectual_Ventures#Controversy">Wikipedia entry on Intellectual Ventures</a> </p>
-<p id="3">[3] Dubner was <a href="http://freakonomics.com/2012/03/02/some-links-worth-reading/">clearly aware</a> of the allegations against Intellectual Ventures prior to the publication of *Think Like a Freak*. <p>
+<p id="3">[3] Dubner was <a href="http://freakonomics.com/2012/03/02/some-links-worth-reading/">clearly aware</a> of the allegations against Intellectual Ventures prior to the publication of <em>Think Like a Freak</em>. <p>
