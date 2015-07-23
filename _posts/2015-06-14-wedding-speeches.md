@@ -63,6 +63,8 @@ Julia, Luke, continue to enjoy each moment together, make every day an adventure
 
 ### Toast
 
+<iframe width="560" height="315" src="//youtube.com/embed/NdQC88uyKYw" allowfullscreen frameborder="0"></iframe>
+
 Hello everyone! How are you all doing? What a nice dinner. And Asheville provides the perfect backdrop: A special place for a special weekend. Big congratulations to Julia, Luke, the Chou’s and the Chapin’s. Who’s excited for tomorrow? I know I am!
  
 I first met Julia and Luke through my former roommate, Alec who worked with Luke at Accenture. Where’s Alec? Hi Alec!  Knowing I was new to San Francisco, Julia and Luke welcomed me into their wide circle of friends right away. As you know, their organizational skills are legendary. They organize the much anticipated annual trip to Yosemite National Park, with about 20 amazing people, many of whom are here tonight. Hi Everybody! I know we all love to hike, but still, it’s nice sometimes to be within 20 feet of Julia and Luke, and to actually be sitting down. Resting. It's strange. So  I have Julia and Luke to thank for so many friends in San Francisco, and I know many of you here tonight can say the same.
