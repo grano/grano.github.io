@@ -4,9 +4,9 @@ title: "Book Review: Spoiled Brats by Simon Rich"
 tags: [book, book review, spoiled brats, simon rich, comedy, millennials, fiction, short stories]
 ---
 
-I first came across Simon Rich’s writing when his novella *Sell Out* was published in the *New Yorker* online in January 2013 [1]. *Sell Out* is about a turn of the (20th) century immigrant who gets stuck in a pickle jar and emerges in the modern day. I really enjoyed it, but only recently decided to give *Spoiled Brats*, a collection of short stories that includes *Sell Out* a try.
+I first came across Simon Rich’s writing when his novella *Sell Out* was published in the *New Yorker* online in January 2013 [1]. *Sell Out* is about a turn of the (20th) century immigrant who gets stuck in a pickle jar and emerges in the modern day. I really enjoyed it, but only recently decided to give *Spoiled Brats*, a collection of short stories that includes *Sell Out*, a try.
 
-From the book jacket summary, *Spoiled Brats* is a "collection of stories culled from the front lines of the millennial culture wars". Most of the stories can be broadly described the same way: a light, humorous, and slightly critical commentary on millennial culture told through a story with supernatural elements. 
+From the book jacket summary, *Spoiled Brats* is a "collection of stories culled from the front lines of the millennial culture wars". Most of the stories can be broadly described the same way: a light, humorous, and slightly critical commentary on millennial culture told through a story with supernatural elements.
 
 For example, the first story, *Animals*, is similar to *Sell Out* in that it is commenting on today’s society from an outside perspective. In *Sell Out*, it is entirely clear where this perspective is coming from: a hardworking, Jewish immigrant from Eastern Europe who came to Ellis Island and worked in a pickle factory [2]. Yet in *Animals*, a story told from the perspective of an elementary school’s pet hamster, it is less clear what cultural norms the hamster is accustomed to, such that the hamster finds the school children deplorable (the only clue comes from this passage: "I, too, am a Christian, although lately I’ve struggled to make sense of God’s plan"). This makes the story a bit more shallow - which is okay given its short length.
 
