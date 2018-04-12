@@ -8,7 +8,7 @@ Hey there, I'm Andy. I'm a Product Manager at [Box](https://www.box.com/), music
 
 I'm a jazz and klezmer pianist, keyboardist, and composer. I occasionally post music to the blog, or if you want to hear me live, check out the Klezmer band I play in: [Boyz II Mensch](http://www.boyziimensch.com).
 
-This website is built using [Jekyll](http://jekyllrb.com/) and is hosted on [GitHub Pages](https://pages.github.com/). The [source code is on GitHub](https://github.com/grano/grano.github.io).
+This website is built using [Jekyll](http://jekyllrb.com/) and is hosted on [GitHub Pages](https://pages.github.com/).
 
 I use Google Analytics on this website. If you would not like to be tracked, use the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
