@@ -15,13 +15,13 @@ layout: default
     {% if page.previous.url %}
     <div class="post-container">
     	<a class="post-nav" href="{{page.previous.url}}">&laquo; Previous post: {{page.previous.title}}</a>
-    </div> 
-    {% endif %} 
+    </div>
+    {% endif %}
     {% if page.next.url %}
     <div class="post-container">
-    	<a class="post-nav" href="{{page.next.url}}">Next post: {{page.next.title}} &raquo;</a> 
+    	<a class="post-nav" href="{{page.next.url}}">Next post: {{page.next.title}} &raquo;</a>
     </div>
-    {% endif %} 
+    {% endif %}
   </div>
 
 </div>
@@ -29,5 +29,4 @@ layout: default
 {% include tags.html %}
 
 {% if page.comments %}
-{% include disqus.html %}
 {% endif %}
